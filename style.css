@@ -1,0 +1,25 @@
+.container{
+    width: 220px;
+    padding: 10px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    border: solid white 1px;
+    background-color:hsl(0, 0%, 100%);
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    left: 80vh;
+    top: 20vh;
+    gap:20px;
+    font-family: sans-serif;
+}
+
+.container img{
+    border-radius: 10px;
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+}
